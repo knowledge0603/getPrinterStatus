@@ -1,0 +1,6 @@
+F:\work\2017\20170916\TestDll\TestDll\bin\Debug\TestDll.dll
+F:\work\2017\20170916\TestDll\TestDll\bin\Debug\TestDll.pdb
+F:\work\2017\20170916\TestDll\TestDll\bin\Debug\TestDll.tlb
+F:\work\2017\20170916\TestDll\TestDll\obj\Debug\TestDll.csprojResolveAssemblyReference.cache
+F:\work\2017\20170916\TestDll\TestDll\obj\Debug\TestDll.dll
+F:\work\2017\20170916\TestDll\TestDll\obj\Debug\TestDll.pdb
